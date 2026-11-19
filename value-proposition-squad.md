@@ -85,8 +85,6 @@ Kesimpulan utama dari wawancara menunjukkan bahwa **sistem inti aplikasi Tira bu
     *   **Kepastian Pengiriman Terkoordinasi:** Pengaturan waktu terima barang dan kejelasan status pesanan lewat komunikasi HP/WhatsApp serta kurir khusus PT Tira.
 *   **Status Hipotesis yang Diuji:**
     *   `[TERBUKTI]` Rendahnya *trust* masyarakat terhadap kualitas barang *online* dan ketidaktepatan momen penerimaan paket menjadi penghambat utama kepuasan pembeli.
-    *   `[PERLU DIUJI LANJUT]` Sejauh mana pembeli bersedia menunggu atau beralih produk saat pasokan terlambat hingga 2 bulan.
-
 ---
 
 ## 2. Rumusan 1 Kalimat Nilai Solusi (Value Proposition Statement)
