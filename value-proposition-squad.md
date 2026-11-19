@@ -89,7 +89,7 @@ Kesimpulan utama dari wawancara menunjukkan bahwa **sistem inti aplikasi Tira bu
 
 ## 2. Rumusan 1 Kalimat Nilai Solusi (Value Proposition Statement)
 
-Solusi bisnis ini adalah menjembatani keraguan *trust* pembeli *online* dan kendala pengiriman maupun pasokan global melalui kombinasi sistem aplikasi Tira yang terintegrasi dengan layanan personal *reseller* dan kurir khusus yang terkoordinasi.
+Solusi bisnis ini adalah menjembatani keraguan *trust* pembeli *online* dengan cara selalu mendokumentasikan kualitas barang yang datang dengan cara post di story dengan content tanpa filter dan tentunya meminta bantuan terhadap konsumen yg pernah bertransaksi di toko IDA  LEMAN COLLECTION.
 
 ---
 
