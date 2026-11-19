@@ -60,7 +60,7 @@ Kutipan tersebut menunjukkan bahwa kepuasan pelanggan, kualitas produk, dan kepe
 | 2 | Masyarakat masih mengalami kesulitan menggunakan teknologi jual beli online. | Terdukung: narasumber menyampaikan bahwa sebagian masyarakat masih awam. |
 | 3 | Kepercayaan pelanggan menjadi kendala dalam transaksi online. | Terdukung: narasumber menjelaskan adanya kekhawatiran terhadap kualitas produk. |
 | 4 | Keterlambatan pengiriman dapat memengaruhi pelayanan kepada pelanggan. | Terdukung: pernah terjadi keterlambatan hingga dua bulan. |
-| 5 | Katalog online dapat membantu pelanggan memperoleh informasi produk. | Belum tervalidasi melalui wawancara ini. |
+
 
 ### 6. Kesimpulan Wawancara
 
