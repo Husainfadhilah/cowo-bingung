@@ -1,4 +1,4 @@
-# SCRIPT PITCH DECK 5 BABAK – [NAMA SQUAD]
+# SCRIPT PITCH DECK 5 BABAK – [PCB]
 
 **Nama Platform:** Katalog Online Ida Leman Collection  
 **Target Durasi:** ±7 Menit  
@@ -10,7 +10,7 @@
 
 ## BABAK 1 – THE HOOK & THE PROBLEM (±1,5 Menit)
 
-**Pembicara:** Anggota 1
+**Pembicara:** fariz
 
 **Naskah Lisan:**
 
@@ -144,7 +144,7 @@ Harapan kami, Katalog Online Ida Leman Collection dapat membantu usaha menjadi l
 
 **Sebagai penutup, kami percaya bahwa usaha kecil juga memiliki kesempatan untuk berkembang dengan memanfaatkan teknologi sederhana yang sesuai dengan kebutuhan mereka.**
 
-Terima kasih atas perhatian Bapak/Ibu dan teman-teman semua.
+thanks for your all attentions 
 
 
 # WIREFRAME KATALOG APLIKASI
