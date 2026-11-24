@@ -34,7 +34,7 @@ Untuk menjawab permasalahan tersebut, selanjutnya rekan saya akan menjelaskan so
 
 ## BABAK 2 – THE SOLUTION (±1 Menit)
 
-**Pembicara:** Anggota 2
+**Pembicara:** fariz
 
 **Naskah Lisan:**
 
@@ -58,7 +58,7 @@ Selanjutnya, rekan saya akan memperlihatkan gambaran desain dan cara kerja platf
 
 ## BABAK 3 – THE PROOF / DEMO ARTEFAK (±2,5 Menit)
 
-**Pembicara:** Anggota 2 dan 3
+**Pembicara:** hanif
 
 **Naskah Lisan:**
 
@@ -100,7 +100,7 @@ Melalui ketiga rancangan ini, kami berharap platform yang dikembangkan benar-ben
 
 ## BABAK 4 – THE IMPACT & VALUE (±1 Menit)
 
-**Pembicara:** Anggota 3
+**Pembicara:** rafif
 
 **Naskah Lisan:**
 
@@ -122,7 +122,7 @@ Dengan demikian, katalog online diharapkan dapat membuat kegiatan jual beli menj
 
 ## BABAK 5 – ROADMAP & CALL TO ACTION (±1 Menit)
 
-**Pembicara:** Anggota 4
+**Pembicara:** husain
 
 **Naskah Lisan:**
 
